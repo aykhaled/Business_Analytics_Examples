@@ -1,4 +1,4 @@
-# Business_Analytics_Examples
+# Business Analytics Examples
 ## 4 Business Analytics Problems and Solutions in R 
 
 ## Problem 1
