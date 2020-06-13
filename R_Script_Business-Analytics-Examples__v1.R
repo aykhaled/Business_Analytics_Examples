@@ -126,7 +126,7 @@ curve(dnorm(x, mean = mean(d3$SAT_Score), sd= sd(d3$SAT_Score)),
       lwd =5,
       add = TRUE
 )
-
+h
 
 ## 3c : Summary
 
